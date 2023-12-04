@@ -696,6 +696,9 @@ p {
   position: relative;
 }
 
+.no-webp .technologies-body__item_loading::after{
+  background: url("../img/load-icon-png-7952 (1).png") 0 0/100% 100% no-repeat; }
+
 .technologies-body__item_loading::after {
   content: "";
   top: -1%;
@@ -706,7 +709,26 @@ p {
   height: 0.9375rem;
   -webkit-animation: load 5s infinite linear;
           animation: load 5s infinite linear;
-  background: url(../img/load-icon-png-7952\ \(1\).png) 0 0/100% 100% no-repeat;
+}
+
+@-webkit-keyframes load {
+  0% {
+    rotate: 0;
+  }
+
+  100% {
+    rotate: 360deg;
+  }
+}
+
+@keyframes load {
+  0% {
+    rotate: 0;
+  }
+
+  100% {
+    rotate: 360deg;
+  }
 }
 
 .language-body {
@@ -736,6 +758,9 @@ p {
   position: relative;
 }
 
+.no-webp .language-body__item_loading::after{
+  background: url("../img/load-icon-png-7952 (1).png") 0 0/100% 100% no-repeat; }
+
 .language-body__item_loading::after {
   content: "";
   top: -1%;
@@ -746,7 +771,6 @@ p {
   height: 0.9375rem;
   -webkit-animation: load 5s infinite linear;
           animation: load 5s infinite linear;
-  background: url(../img/load-icon-png-7952\ \(1\).png) 0 0/100% 100% no-repeat;
 }
 
 .characteristic-body {
@@ -975,26 +999,6 @@ p {
       -ms-flex: 0 0 1.875rem;
           flex: 0 0 1.875rem;
   border-radius: 20px;
-}
-
-@-webkit-keyframes load {
-  0% {
-    rotate: 0;
-  }
-
-  100% {
-    rotate: 360deg;
-  }
-}
-
-@keyframes load {
-  0% {
-    rotate: 0;
-  }
-
-  100% {
-    rotate: 360deg;
-  }
 }
 
 .slide-experience {
@@ -2372,3 +2376,7 @@ p {
     }
 }
 }
+
+.webp .technologies-body__item_loading::after{ background: url("../img/load-icon-png-7952 (1).png") 0 0/100% 100% no-repeat; }
+
+.webp .language-body__item_loading::after{ background: url("../img/load-icon-png-7952 (1).png") 0 0/100% 100% no-repeat; }
