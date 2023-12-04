@@ -289,30 +289,30 @@ p {
   border-radius: 50%;
   background: #f803af;
   margin: -5px;
-  -webkit-animation: violet 0.7s ease infinite;
-          animation: violet 0.7s ease infinite;
+  -webkit-animation: viole 0.7s ease infinite;
+          animation: viole 0.7s ease infinite;
 }
 
 .decor_swet2 {
   border-radius: 50%;
   background: #f80303;
   margin: -7px;
-  -webkit-animation: red 1s ease infinite;
-          animation: red 1s ease infinite;
+  -webkit-animation: re 1s ease infinite;
+          animation: re 1s ease infinite;
 }
 
 .decor_swet3 {
   border-radius: 50%;
   background: #3803f8;
-  -webkit-animation: blue 0.7s ease infinite;
-          animation: blue 0.7s ease infinite;
+  -webkit-animation: blu 0.7s ease infinite;
+          animation: blu 0.7s ease infinite;
 }
 
 .decor_swet4 {
   border-radius: 50%;
   background: #e8f803;
-  -webkit-animation: yellow 0.8s ease infinite;
-          animation: yellow 0.8s ease infinite;
+  -webkit-animation: yello 0.8s ease infinite;
+          animation: yello 0.8s ease infinite;
   margin: -5px;
 }
 
@@ -320,11 +320,11 @@ p {
   border-radius: 50%;
   background: #20f803;
   margin: -5px;
-  -webkit-animation: gren 1.1s ease infinite;
-          animation: gren 1.1s ease infinite;
+  -webkit-animation: gre 1.1s ease infinite;
+          animation: gre 1.1s ease infinite;
 }
 
-@-webkit-keyframes gren {
+@-webkit-keyframes gre {
   0% {
     -webkit-box-shadow: -1px -1px 1px #20f803;
             box-shadow: -1px -1px 1px #20f803;
@@ -336,7 +336,7 @@ p {
   }
 }
 
-@keyframes gren {
+@keyframes gre {
   0% {
     -webkit-box-shadow: -1px -1px 1px #20f803;
             box-shadow: -1px -1px 1px #20f803;
@@ -348,7 +348,7 @@ p {
   }
 }
 
-@-webkit-keyframes red {
+@-webkit-keyframes re {
   0% {
     -webkit-box-shadow: -1px -1px 1px #f80303;
             box-shadow: -1px -1px 1px #f80303;
@@ -360,7 +360,7 @@ p {
   }
 }
 
-@keyframes red {
+@keyframes re {
   0% {
     -webkit-box-shadow: -1px -1px 1px #f80303;
             box-shadow: -1px -1px 1px #f80303;
@@ -372,7 +372,7 @@ p {
   }
 }
 
-@-webkit-keyframes yellow {
+@-webkit-keyframes yello {
   0% {
     -webkit-box-shadow: -1px -1px 1px #e8f803;
             box-shadow: -1px -1px 1px #e8f803;
@@ -384,7 +384,7 @@ p {
   }
 }
 
-@keyframes yellow {
+@keyframes yello {
   0% {
     -webkit-box-shadow: -1px -1px 1px #e8f803;
             box-shadow: -1px -1px 1px #e8f803;
@@ -396,7 +396,7 @@ p {
   }
 }
 
-@-webkit-keyframes violet {
+@-webkit-keyframes viole {
   0% {
     -webkit-box-shadow: -1px -1px 1px #f803af;
             box-shadow: -1px -1px 1px #f803af;
@@ -408,7 +408,7 @@ p {
   }
 }
 
-@keyframes violet {
+@keyframes viole {
   0% {
     -webkit-box-shadow: -1px -1px 1px #f803af;
             box-shadow: -1px -1px 1px #f803af;
@@ -420,7 +420,7 @@ p {
   }
 }
 
-@-webkit-keyframes blue {
+@-webkit-keyframes blu {
   0% {
     -webkit-box-shadow: -1px -1px 1px #3803f8;
             box-shadow: -1px -1px 1px #3803f8;
@@ -432,7 +432,7 @@ p {
   }
 }
 
-@keyframes blue {
+@keyframes blu {
   0% {
     -webkit-box-shadow: -1px -1px 1px #3803f8;
             box-shadow: -1px -1px 1px #3803f8;
