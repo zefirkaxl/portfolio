@@ -326,8 +326,8 @@ p {
 
 @-webkit-keyframes gren {
   0% {
-    -webkit-box-shadow: -1px -1px 1p #20f803;
-            box-shadow: -1px -1px 1p #20f803;
+    -webkit-box-shadow: -1px -1px 1px #20f803;
+            box-shadow: -1px -1px 1px #20f803;
   }
 
   100% {
@@ -338,8 +338,8 @@ p {
 
 @keyframes gren {
   0% {
-    -webkit-box-shadow: -1px -1px 1p #20f803;
-            box-shadow: -1px -1px 1p #20f803;
+    -webkit-box-shadow: -1px -1px 1px #20f803;
+            box-shadow: -1px -1px 1px #20f803;
   }
 
   100% {
@@ -350,8 +350,8 @@ p {
 
 @-webkit-keyframes red {
   0% {
-    -webkit-box-shadow: -1px -1px 1p #f80303;
-            box-shadow: -1px -1px 1p #f80303;
+    -webkit-box-shadow: -1px -1px 1px #f80303;
+            box-shadow: -1px -1px 1px #f80303;
   }
 
   100% {
@@ -362,8 +362,8 @@ p {
 
 @keyframes red {
   0% {
-    -webkit-box-shadow: -1px -1px 1p #f80303;
-            box-shadow: -1px -1px 1p #f80303;
+    -webkit-box-shadow: -1px -1px 1px #f80303;
+            box-shadow: -1px -1px 1px #f80303;
   }
 
   100% {
@@ -374,8 +374,8 @@ p {
 
 @-webkit-keyframes yellow {
   0% {
-    -webkit-box-shadow: -1px -1px 1p #e8f803;
-            box-shadow: -1px -1px 1p #e8f803;
+    -webkit-box-shadow: -1px -1px 1px #e8f803;
+            box-shadow: -1px -1px 1px #e8f803;
   }
 
   100% {
@@ -386,8 +386,8 @@ p {
 
 @keyframes yellow {
   0% {
-    -webkit-box-shadow: -1px -1px 1p #e8f803;
-            box-shadow: -1px -1px 1p #e8f803;
+    -webkit-box-shadow: -1px -1px 1px #e8f803;
+            box-shadow: -1px -1px 1px #e8f803;
   }
 
   100% {
@@ -398,8 +398,8 @@ p {
 
 @-webkit-keyframes violet {
   0% {
-    -webkit-box-shadow: -1px -1px 1p #f803af;
-            box-shadow: -1px -1px 1p #f803af;
+    -webkit-box-shadow: -1px -1px 1px #f803af;
+            box-shadow: -1px -1px 1px #f803af;
   }
 
   100% {
@@ -410,8 +410,8 @@ p {
 
 @keyframes violet {
   0% {
-    -webkit-box-shadow: -1px -1px 1p #f803af;
-            box-shadow: -1px -1px 1p #f803af;
+    -webkit-box-shadow: -1px -1px 1px #f803af;
+            box-shadow: -1px -1px 1px #f803af;
   }
 
   100% {
@@ -422,8 +422,8 @@ p {
 
 @-webkit-keyframes blue {
   0% {
-    -webkit-box-shadow: -1px -1px 1p #3803f8;
-            box-shadow: -1px -1px 1p #3803f8;
+    -webkit-box-shadow: -1px -1px 1px #3803f8;
+            box-shadow: -1px -1px 1px #3803f8;
   }
 
   100% {
@@ -434,8 +434,8 @@ p {
 
 @keyframes blue {
   0% {
-    -webkit-box-shadow: -1px -1px 1p #3803f8;
-            box-shadow: -1px -1px 1p #3803f8;
+    -webkit-box-shadow: -1px -1px 1px #3803f8;
+            box-shadow: -1px -1px 1px #3803f8;
   }
 
   100% {
